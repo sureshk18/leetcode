@@ -1,5 +1,5 @@
 a = 1
 b = 2
-c = "suresh choudhary"
+c = "suresh"
 print(a + b)
 print(c)
